@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#900C3F"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/BOTON_UNO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Insertar nota"/>
+
+        <Button
+            android:id="@+id/BOTON_DOS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mis notas"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
+

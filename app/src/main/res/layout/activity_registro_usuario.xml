@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical"
+    android:background="#900C3F">
+
+
+
+
+    <EditText
+        android:id="@+id/campo_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ingrese libro que desee buscar posteriormente"
+        android:textColorHint="@color/colorWhite"
+        />
+    <EditText
+        android:id="@+id/campo_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="valoracion de dicho libro"
+        android:textColorHint="@color/colorWhite"
+        android:inputType="number"/>
+
+
+
+    <Button
+        android:id="@+id/BtonGuardar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="guardar"/>
+
+
+
+
+</LinearLayout>

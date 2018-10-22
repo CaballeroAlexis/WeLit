@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "597657941596",
+    "firebase_url": "https://booklook-2aa0d.firebaseio.com",
+    "project_id": "booklook-2aa0d",
+    "storage_bucket": "booklook-2aa0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597657941596:android:39bd3d4635d85b71",
+        "android_client_info": {
+          "package_name": "ali.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597657941596-ins8j1lmbmjr09idc51aj5rf8kn9joer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQPuBUorzD9CbMm6F8Y7TPfn6y_qXT4Wk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
